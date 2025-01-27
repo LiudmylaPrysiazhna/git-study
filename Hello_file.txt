@@ -1,3 +1,6 @@
 Hello!
 What a nice day!
 Tomorrow will be a nice day too!
+
+Hello!
+Hello!
